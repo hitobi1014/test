@@ -6,5 +6,6 @@ public class Test {
 		int test = 50;
 		int count = test - 47;
 		System.out.println(count);
+		System.out.println("gg");
 	}
 }
